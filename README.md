@@ -1,6 +1,6 @@
 # WAVGAT-PCB
 
-This guide explains how to use the WAVGAT Arduino copy PCB, including compiling and building in the Arduino IDE.
+This guide explains how to use the WAVGAT Arduino copy PCB, including compiling and building in the Arduino IDE, only if you don't want to use LGT8F328 (default board compiler in Arduino IDE).
 
 ## Firmware Software
 
